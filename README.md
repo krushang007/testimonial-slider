@@ -1,5 +1,5 @@
 # Direct Access link 
-https://top-courses-krv007.netlify.app/
+https://testimonial-slider-krv007.netlify.app/
 
 # Getting Started with Create React App
 
